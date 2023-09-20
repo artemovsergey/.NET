@@ -1,0 +1,11 @@
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\C_ArraysCollections\bin\Debug\netcoreapp2.2\C_ArraysCollections.deps.json
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\C_ArraysCollections\bin\Debug\netcoreapp2.2\C_ArraysCollections.runtimeconfig.json
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\C_ArraysCollections\bin\Debug\netcoreapp2.2\C_ArraysCollections.runtimeconfig.dev.json
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\C_ArraysCollections\bin\Debug\netcoreapp2.2\C_ArraysCollections.dll
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\C_ArraysCollections\bin\Debug\netcoreapp2.2\C_ArraysCollections.pdb
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\C_ArraysCollections\obj\Debug\netcoreapp2.2\C_ArraysCollections.csproj.CoreCompileInputs.cache
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\C_ArraysCollections\obj\Debug\netcoreapp2.2\C_ArraysCollections.AssemblyInfoInputs.cache
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\C_ArraysCollections\obj\Debug\netcoreapp2.2\C_ArraysCollections.AssemblyInfo.cs
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\C_ArraysCollections\obj\Debug\netcoreapp2.2\C_ArraysCollections.dll
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\C_ArraysCollections\obj\Debug\netcoreapp2.2\C_ArraysCollections.pdb
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\C_ArraysCollections\obj\Debug\netcoreapp2.2\C_ArraysCollections.csprojAssemblyReference.cache

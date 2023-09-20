@@ -1,0 +1,12 @@
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\D_OOP\bin\Debug\netcoreapp2.2\D_OOP.deps.json
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\D_OOP\bin\Debug\netcoreapp2.2\D_OOP.runtimeconfig.json
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\D_OOP\bin\Debug\netcoreapp2.2\D_OOP.runtimeconfig.dev.json
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\D_OOP\bin\Debug\netcoreapp2.2\D_OOP.dll
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\D_OOP\bin\Debug\netcoreapp2.2\D_OOP.pdb
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\D_OOP\obj\Debug\netcoreapp2.2\D_OOP.csprojAssemblyReference.cache
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\D_OOP\obj\Debug\netcoreapp2.2\D_OOP.csproj.CoreCompileInputs.cache
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\D_OOP\obj\Debug\netcoreapp2.2\D_OOP.AssemblyInfoInputs.cache
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\D_OOP\obj\Debug\netcoreapp2.2\D_OOP.AssemblyInfo.cs
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\D_OOP\obj\Debug\netcoreapp2.2\D_OOP.dll
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\D_OOP\obj\Debug\netcoreapp2.2\D_OOP.pdb
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\D_OOP\bin\Debug\netcoreapp2.2\Homeworks\Hangman\WordsStockRus.txt

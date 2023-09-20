@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\СSharpCourse\СSharpCourse\bin\Debug\net7.0\СSharpCourse.exe
+C:\Users\user\Desktop\СSharpCourse\СSharpCourse\bin\Debug\net7.0\СSharpCourse.deps.json
+C:\Users\user\Desktop\СSharpCourse\СSharpCourse\bin\Debug\net7.0\СSharpCourse.runtimeconfig.json
+C:\Users\user\Desktop\СSharpCourse\СSharpCourse\bin\Debug\net7.0\СSharpCourse.dll
+C:\Users\user\Desktop\СSharpCourse\СSharpCourse\bin\Debug\net7.0\СSharpCourse.pdb
+C:\Users\user\Desktop\СSharpCourse\СSharpCourse\obj\Debug\net7.0\СSharpCourse.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\СSharpCourse\СSharpCourse\obj\Debug\net7.0\СSharpCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\СSharpCourse\СSharpCourse\obj\Debug\net7.0\СSharpCourse.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\СSharpCourse\СSharpCourse\obj\Debug\net7.0\СSharpCourse.AssemblyInfo.cs
+C:\Users\user\Desktop\СSharpCourse\СSharpCourse\obj\Debug\net7.0\СSharpCourse.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\СSharpCourse\СSharpCourse\obj\Debug\net7.0\СSharpCourse.dll
+C:\Users\user\Desktop\СSharpCourse\СSharpCourse\obj\Debug\net7.0\refint\СSharpCourse.dll
+C:\Users\user\Desktop\СSharpCourse\СSharpCourse\obj\Debug\net7.0\СSharpCourse.pdb
+C:\Users\user\Desktop\СSharpCourse\СSharpCourse\obj\Debug\net7.0\СSharpCourse.genruntimeconfig.cache
+C:\Users\user\Desktop\СSharpCourse\СSharpCourse\obj\Debug\net7.0\ref\СSharpCourse.dll

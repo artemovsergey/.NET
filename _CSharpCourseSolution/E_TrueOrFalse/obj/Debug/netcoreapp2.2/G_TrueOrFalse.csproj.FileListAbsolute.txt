@@ -1,0 +1,12 @@
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\E_TrueOrFalse\bin\Debug\netcoreapp2.2\G_TrueOrFalse.deps.json
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\E_TrueOrFalse\bin\Debug\netcoreapp2.2\G_TrueOrFalse.runtimeconfig.json
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\E_TrueOrFalse\bin\Debug\netcoreapp2.2\G_TrueOrFalse.runtimeconfig.dev.json
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\E_TrueOrFalse\bin\Debug\netcoreapp2.2\G_TrueOrFalse.dll
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\E_TrueOrFalse\bin\Debug\netcoreapp2.2\G_TrueOrFalse.pdb
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\E_TrueOrFalse\obj\Debug\netcoreapp2.2\G_TrueOrFalse.csproj.CoreCompileInputs.cache
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\E_TrueOrFalse\obj\Debug\netcoreapp2.2\G_TrueOrFalse.AssemblyInfoInputs.cache
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\E_TrueOrFalse\obj\Debug\netcoreapp2.2\G_TrueOrFalse.AssemblyInfo.cs
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\E_TrueOrFalse\obj\Debug\netcoreapp2.2\G_TrueOrFalse.dll
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\E_TrueOrFalse\obj\Debug\netcoreapp2.2\G_TrueOrFalse.pdb
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\E_TrueOrFalse\bin\Debug\netcoreapp2.2\Questions.csv
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\E_TrueOrFalse\obj\Debug\netcoreapp2.2\G_TrueOrFalse.csprojAssemblyReference.cache

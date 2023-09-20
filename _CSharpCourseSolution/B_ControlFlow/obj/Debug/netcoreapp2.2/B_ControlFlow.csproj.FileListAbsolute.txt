@@ -1,0 +1,11 @@
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\B_ControlFlow\bin\Debug\netcoreapp2.2\B_ControlFlow.deps.json
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\B_ControlFlow\bin\Debug\netcoreapp2.2\B_ControlFlow.runtimeconfig.json
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\B_ControlFlow\bin\Debug\netcoreapp2.2\B_ControlFlow.runtimeconfig.dev.json
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\B_ControlFlow\bin\Debug\netcoreapp2.2\B_ControlFlow.dll
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\B_ControlFlow\bin\Debug\netcoreapp2.2\B_ControlFlow.pdb
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\B_ControlFlow\obj\Debug\netcoreapp2.2\B_ControlFlow.csproj.CoreCompileInputs.cache
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\B_ControlFlow\obj\Debug\netcoreapp2.2\B_ControlFlow.AssemblyInfoInputs.cache
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\B_ControlFlow\obj\Debug\netcoreapp2.2\B_ControlFlow.AssemblyInfo.cs
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\B_ControlFlow\obj\Debug\netcoreapp2.2\B_ControlFlow.dll
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\B_ControlFlow\obj\Debug\netcoreapp2.2\B_ControlFlow.pdb
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\B_ControlFlow\obj\Debug\netcoreapp2.2\B_ControlFlow.csprojAssemblyReference.cache

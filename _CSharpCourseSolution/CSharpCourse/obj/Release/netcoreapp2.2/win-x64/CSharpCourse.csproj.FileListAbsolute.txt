@@ -1,0 +1,14 @@
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\bin\Release\netcoreapp2.2\win-x64\hostpolicy.dll
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\bin\Release\netcoreapp2.2\win-x64\hostfxr.dll
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\bin\Release\netcoreapp2.2\win-x64\CSharpCourse.exe
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\bin\Release\netcoreapp2.2\win-x64\CSharpCourse.deps.json
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\bin\Release\netcoreapp2.2\win-x64\CSharpCourse.runtimeconfig.json
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\bin\Release\netcoreapp2.2\win-x64\CSharpCourse.runtimeconfig.dev.json
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\bin\Release\netcoreapp2.2\win-x64\CSharpCourse.dll
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\bin\Release\netcoreapp2.2\win-x64\CSharpCourse.pdb
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\obj\Release\netcoreapp2.2\win-x64\CSharpCourse.csprojAssemblyReference.cache
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\obj\Release\netcoreapp2.2\win-x64\CSharpCourse.csproj.CoreCompileInputs.cache
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\obj\Release\netcoreapp2.2\win-x64\CSharpCourse.AssemblyInfoInputs.cache
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\obj\Release\netcoreapp2.2\win-x64\CSharpCourse.AssemblyInfo.cs
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\obj\Release\netcoreapp2.2\win-x64\CSharpCourse.dll
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\obj\Release\netcoreapp2.2\win-x64\CSharpCourse.pdb

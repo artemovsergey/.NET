@@ -1,0 +1,15 @@
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\bin\Debug\netcoreapp2.2\A_CSharpCourse.deps.json
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\bin\Debug\netcoreapp2.2\A_CSharpCourse.runtimeconfig.json
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\bin\Debug\netcoreapp2.2\A_CSharpCourse.runtimeconfig.dev.json
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\bin\Debug\netcoreapp2.2\A_CSharpCourse.dll
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\bin\Debug\netcoreapp2.2\A_CSharpCourse.pdb
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\obj\Debug\netcoreapp2.2\A_CSharpCourse.csprojAssemblyReference.cache
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\obj\Debug\netcoreapp2.2\A_CSharpCourse.csproj.CoreCompileInputs.cache
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\obj\Debug\netcoreapp2.2\A_CSharpCourse.AssemblyInfoInputs.cache
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\obj\Debug\netcoreapp2.2\A_CSharpCourse.AssemblyInfo.cs
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\obj\Debug\netcoreapp2.2\A_CSharpCourse.dll
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\obj\Debug\netcoreapp2.2\A_CSharpCourse.pdb
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\bin\Debug\netcoreapp2.2\D_OOP.dll
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\bin\Debug\netcoreapp2.2\D_OOP.pdb
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\obj\Debug\netcoreapp2.2\A_CSharpCourse.csproj.CopyComplete
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\bin\Debug\netcoreapp2.2\Homeworks\Hangman\WordsStockRus.txt

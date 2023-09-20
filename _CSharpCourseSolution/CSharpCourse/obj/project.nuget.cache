@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Edmsr63GC7jnRI3kDP9CIbRaZrjNDVyv+3il7X5f9SsQ/GeyVrZPaH4iGT+5Z58txf/rTgaeJkB8qpPKXVQ7XA==",
+  "success": true,
+  "projectFilePath": "E:\\.NET\\Курсы\\_С# Course\\01 Введение в платформу .NET\\CSharpCourseSolution\\CSharpCourse\\A_CSharpCourse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asv\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\asv\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\asv\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\asv\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\asv\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\asv\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\asv\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

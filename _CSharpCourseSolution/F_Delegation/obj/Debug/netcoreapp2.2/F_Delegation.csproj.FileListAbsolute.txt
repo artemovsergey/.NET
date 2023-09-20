@@ -1,0 +1,12 @@
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\F_Delegation\bin\Debug\netcoreapp2.2\F_Delegation.deps.json
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\F_Delegation\bin\Debug\netcoreapp2.2\F_Delegation.runtimeconfig.json
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\F_Delegation\bin\Debug\netcoreapp2.2\F_Delegation.runtimeconfig.dev.json
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\F_Delegation\bin\Debug\netcoreapp2.2\F_Delegation.dll
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\F_Delegation\bin\Debug\netcoreapp2.2\F_Delegation.pdb
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\F_Delegation\obj\Debug\netcoreapp2.2\F_Delegation.csprojAssemblyReference.cache
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\F_Delegation\obj\Debug\netcoreapp2.2\F_Delegation.csproj.CoreCompileInputs.cache
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\F_Delegation\obj\Debug\netcoreapp2.2\F_Delegation.AssemblyInfoInputs.cache
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\F_Delegation\obj\Debug\netcoreapp2.2\F_Delegation.AssemblyInfo.cs
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\F_Delegation\obj\Debug\netcoreapp2.2\F_Delegation.dll
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\F_Delegation\obj\Debug\netcoreapp2.2\F_Delegation.pdb
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\F_Delegation\bin\Debug\netcoreapp2.2\Top100ChessPlayers.csv

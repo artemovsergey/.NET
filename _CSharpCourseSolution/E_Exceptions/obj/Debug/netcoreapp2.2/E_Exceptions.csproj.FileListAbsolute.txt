@@ -1,0 +1,11 @@
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\E_Exceptions\bin\Debug\netcoreapp2.2\E_Exceptions.deps.json
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\E_Exceptions\bin\Debug\netcoreapp2.2\E_Exceptions.runtimeconfig.json
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\E_Exceptions\bin\Debug\netcoreapp2.2\E_Exceptions.runtimeconfig.dev.json
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\E_Exceptions\bin\Debug\netcoreapp2.2\E_Exceptions.dll
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\E_Exceptions\bin\Debug\netcoreapp2.2\E_Exceptions.pdb
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\E_Exceptions\obj\Debug\netcoreapp2.2\E_Exceptions.csprojAssemblyReference.cache
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\E_Exceptions\obj\Debug\netcoreapp2.2\E_Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\E_Exceptions\obj\Debug\netcoreapp2.2\E_Exceptions.AssemblyInfoInputs.cache
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\E_Exceptions\obj\Debug\netcoreapp2.2\E_Exceptions.AssemblyInfo.cs
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\E_Exceptions\obj\Debug\netcoreapp2.2\E_Exceptions.dll
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\E_Exceptions\obj\Debug\netcoreapp2.2\E_Exceptions.pdb

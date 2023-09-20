@@ -1,0 +1,11 @@
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\bin\Debug\netcoreapp2.2\CSharpCourse.deps.json
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\bin\Debug\netcoreapp2.2\CSharpCourse.runtimeconfig.json
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\bin\Debug\netcoreapp2.2\CSharpCourse.runtimeconfig.dev.json
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\bin\Debug\netcoreapp2.2\CSharpCourse.dll
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\bin\Debug\netcoreapp2.2\CSharpCourse.pdb
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\obj\Debug\netcoreapp2.2\CSharpCourse.csproj.CoreCompileInputs.cache
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\obj\Debug\netcoreapp2.2\CSharpCourse.AssemblyInfoInputs.cache
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\obj\Debug\netcoreapp2.2\CSharpCourse.AssemblyInfo.cs
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\obj\Debug\netcoreapp2.2\CSharpCourse.dll
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\obj\Debug\netcoreapp2.2\CSharpCourse.pdb
+C:\Users\EngineerSpock\Source\Repos\CSharpCourseSolution\CSharpCourse\obj\Debug\netcoreapp2.2\CSharpCourse.csprojAssemblyReference.cache

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "A_CSharpCourse/1.0.0": {
+        "dependencies": {
+          "D_OOP": "1.0.0"
+        },
+        "runtime": {
+          "A_CSharpCourse.dll": {}
+        }
+      },
+      "D_OOP/1.0.0": {
+        "runtime": {
+          "D_OOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A_CSharpCourse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "D_OOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

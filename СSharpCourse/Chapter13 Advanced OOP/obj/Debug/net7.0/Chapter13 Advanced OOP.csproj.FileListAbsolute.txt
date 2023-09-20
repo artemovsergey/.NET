@@ -1,0 +1,15 @@
+E:\_Репозитории\Курс С#\СSharpCourse\Chapter13 Advanced OOP\bin\Debug\net7.0\Chapter13 Advanced OOP.exe
+E:\_Репозитории\Курс С#\СSharpCourse\Chapter13 Advanced OOP\bin\Debug\net7.0\Chapter13 Advanced OOP.deps.json
+E:\_Репозитории\Курс С#\СSharpCourse\Chapter13 Advanced OOP\bin\Debug\net7.0\Chapter13 Advanced OOP.runtimeconfig.json
+E:\_Репозитории\Курс С#\СSharpCourse\Chapter13 Advanced OOP\bin\Debug\net7.0\Chapter13 Advanced OOP.dll
+E:\_Репозитории\Курс С#\СSharpCourse\Chapter13 Advanced OOP\bin\Debug\net7.0\Chapter13 Advanced OOP.pdb
+E:\_Репозитории\Курс С#\СSharpCourse\Chapter13 Advanced OOP\obj\Debug\net7.0\Chapter13 Advanced OOP.csproj.AssemblyReference.cache
+E:\_Репозитории\Курс С#\СSharpCourse\Chapter13 Advanced OOP\obj\Debug\net7.0\Chapter13 Advanced OOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\_Репозитории\Курс С#\СSharpCourse\Chapter13 Advanced OOP\obj\Debug\net7.0\Chapter13 Advanced OOP.AssemblyInfoInputs.cache
+E:\_Репозитории\Курс С#\СSharpCourse\Chapter13 Advanced OOP\obj\Debug\net7.0\Chapter13 Advanced OOP.AssemblyInfo.cs
+E:\_Репозитории\Курс С#\СSharpCourse\Chapter13 Advanced OOP\obj\Debug\net7.0\Chapter13 Advanced OOP.csproj.CoreCompileInputs.cache
+E:\_Репозитории\Курс С#\СSharpCourse\Chapter13 Advanced OOP\obj\Debug\net7.0\Chapter13 Advanced OOP.dll
+E:\_Репозитории\Курс С#\СSharpCourse\Chapter13 Advanced OOP\obj\Debug\net7.0\refint\Chapter13 Advanced OOP.dll
+E:\_Репозитории\Курс С#\СSharpCourse\Chapter13 Advanced OOP\obj\Debug\net7.0\Chapter13 Advanced OOP.pdb
+E:\_Репозитории\Курс С#\СSharpCourse\Chapter13 Advanced OOP\obj\Debug\net7.0\Chapter13 Advanced OOP.genruntimeconfig.cache
+E:\_Репозитории\Курс С#\СSharpCourse\Chapter13 Advanced OOP\obj\Debug\net7.0\ref\Chapter13 Advanced OOP.dll
